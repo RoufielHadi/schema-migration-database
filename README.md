@@ -85,5 +85,3 @@ pytest -q
 - CLI tidak mengeksekusi SQL ke DB secara otomatis.
 - Deteksi perubahan destruktif (drop column/shorten varchar) diberi flag `destructive: true` di hasil diff.
 
-## Lisensi
-MIT
